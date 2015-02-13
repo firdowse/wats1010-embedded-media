@@ -4,8 +4,8 @@
  *
  * Site Styles
  *****************************************************************************/
-h1, p:hover{
-font-size:2.5em;
+.subtitle:hover{
+font-size:2em;
 color: firebrick;	
 }
 
